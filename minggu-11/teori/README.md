@@ -83,4 +83,4 @@ $ coverage html  # open htmlcov/index.html in a browser
 ```
 
 > hasil tampilan
-> ![Alt text](teori/image.png)
+> ![Alt text](image.png)
